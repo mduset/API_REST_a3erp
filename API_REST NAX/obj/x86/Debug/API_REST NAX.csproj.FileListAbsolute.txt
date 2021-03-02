@@ -1,0 +1,98 @@
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\obj\x86\Debug\API_REST NAX.csprojAssemblyReference.cache
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\obj\x86\Debug\Interop.a3ERPActiveX.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\obj\x86\Debug\API_REST NAX.csproj.ResolveComReference.cache
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\API_REST NAX.dll.config
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\API_REST NAX.xml
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\API_REST NAX.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\API_REST NAX.pdb
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\csc.exe
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\csc.exe.config
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\csc.rsp
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\csi.exe
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\csi.exe.config
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\csi.rsp
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.AppContext.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Console.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.IO.Compression.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Net.Http.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.ValueTuple.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\vbc.exe
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\vbc.exe.config
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\vbc.rsp
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\Antlr3.Runtime.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\Newtonsoft.Json.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Net.Http.Formatting.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.Helpers.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.Http.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.Http.WebHost.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.Mvc.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.Optimization.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.Razor.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.WebPages.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\WebGrease.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\Newtonsoft.Json.xml
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Net.Http.Formatting.xml
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.Helpers.xml
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.Http.xml
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.Http.WebHost.xml
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.Mvc.xml
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.Optimization.xml
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.Razor.xml
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.WebPages.xml
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\Antlr3.Runtime.pdb
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\es\System.Web.Http.resources.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\es\System.Web.Razor.resources.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\obj\x86\Debug\API_REST NAX.csproj.CopyComplete
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\obj\x86\Debug\API_REST NAX.dll
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\obj\x86\Debug\API_REST NAX.pdb
+C:\Users\Marcel\source\repos\API_REST NAX\API_REST NAX\obj\x86\Debug\API_REST NAX.csproj.CoreCompileInputs.cache
